@@ -57,6 +57,8 @@ The goal: **identify strengths, highlight areas for improvement, and support dat
 7. **Data Validation:** Confirmed consistency and correctness  
 
 ---
+## Data Visulaization
+<img width="1230" height="678" alt="Employee Screenshot" src="https://github.com/user-attachments/assets/5ad33378-59fd-4c8c-a256-b1e575c128b6" />
 
 ## Key Insights
 
